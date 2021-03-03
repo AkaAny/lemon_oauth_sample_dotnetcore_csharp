@@ -1,0 +1,8 @@
+﻿{
+    "hduhelp": {
+      "Host": "https://api.hduhelp.com",
+      "ClientID": "client_id",
+      "ClientSecret": "client_secret",
+      "RedirectUrl": "https://localhost:5001/oauth/callback"
+    }
+}
